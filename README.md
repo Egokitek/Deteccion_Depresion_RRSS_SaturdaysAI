@@ -1,4 +1,4 @@
-![Logo del proyecto](logo depr-rrss-ai.png)
+![Logo del proyecto](logo-depr-rrss-ai.png)
 
 ### Utilización de técnicas de Inteligencia Artificial para captar patrones de depresión en redes sociales.
 
