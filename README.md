@@ -8,7 +8,7 @@ El presente trabajo estudia la manera de detectar en redes sociales los patrones
 
 [**Saturdays AI**](https://saturdays.ai/) es un movimiento comunitario y global dedicado al desarrollo de la educación en Inteligencia Artificial a través de contenido de calidad. El objetivo es que esta tecnología sea accesible para todos a través del desarrollo de proyectos con impacto social.
 
-Este repositorio engloba el proyecto realizado durante la edición de ** Saturdays AI 2022 en Madrid **.
+Este repositorio engloba el proyecto realizado durante la edición de **Saturdays AI 2022 en Madrid**.
 
 ### El equipo está formado por:
 - Daniel Rodríguez
@@ -46,7 +46,7 @@ El proyecto debe limpiar previamente este fichero para poder procesar, es bastan
 
 ### Desarrollo futuro
 
-Se espera continuar con este proyecto a posteriori de la fecha del demo day como vía para profundizar en las técnicas aprendidas, aunque no tenemos por el momento un calendarios establecido.
+Se espera continuar con este proyecto a posteriori de la fecha del demo day como vía para profundizar en las técnicas aprendidas, aunque no tenemos por el momento un calendario establecido.
 
 ### Licencia:
 
