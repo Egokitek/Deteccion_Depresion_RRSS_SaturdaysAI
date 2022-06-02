@@ -20,7 +20,7 @@ Este repositorio engloba el proyecto realizado durante la edición de ** Saturda
 - Teresa García
 - David Leirado
 
-** Además de todo el equipo de Saturdays.AI , ¡Gracias! **
+**Además de todo el equipo de Saturdays.AI , ¡Gracias!**
 
 ### Planificación
 
@@ -39,9 +39,9 @@ El proyecto parte de un conjunto de datos con muchos tweets de varias personas q
 
 El proyecto debe limpiar previamente este fichero para poder procesar, es bastante extenso y por ello requiere bastante cálculo. El fichero csv con los datos tabulados no puede adjuntarse aqui por razones de espacio, pesa unos 250mb. Si se adjuntan los notebooks e información del proceso realizado.
 
-** Se han empleado para el análisis los algoritmos NLP siguientes: **
+**Se han empleado para el análisis los algoritmos NLP siguientes:**
 
-- [**Naive Bayes**](/Naive Bayes/.README.md)
+- [**NaiveBayes**](/Naive_Bayes/.README.md)
 - [**Transformers**](/Transformers/.README.md)
 
 ### Desarrollo futuro
