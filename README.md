@@ -2,7 +2,7 @@
 
 ### Utilización de técnicas de Inteligencia Artificial para captar patrones de depresión en redes sociales.
 
-El presente trabajo estudia la manera de detectar en redes sociales los patrones de lenguaje que indiquen que la persona sufre de depresión. Se utiliza como fuente de entrada un fichero con miles y miles de tweets de múltiples personas, que han sido previamente marcadas con una etiqueta que indica si sufren o no de depresión. Este marcado lo han hecho personas expertas en psiquiatria de tal forma que es un indicativo fiable de que el análisis que realicemos puede ser contrastado y verificado. 
+El presente trabajo estudia la manera de detectar en redes sociales los patrones de lenguaje que indiquen que la persona sufre de depresión. Se utiliza como fuente de entrada un fichero con cerca de 3 millones de tweets de unas dos mil personas, que han sido previamente marcadas con una etiqueta que indica si sufren o no de depresión. Este marcado lo han hecho personas expertas en psiquiatria de tal forma que es un indicativo fiable de que el análisis que realicemos puede ser contrastado y verificado. 
 
 ### Sobre Saturdays.AI
 
@@ -35,9 +35,18 @@ Durante seis semanas el equipo ha trabajado en el proyecto siguiendo el siguient
 
  ### Características principales:
 
-El proyecto parte de un conjunto de datos con muchos tweets de varias personas que han sido etiquetadas con o sin estado depresivo. Este marcado se ha hecho por personas especialistas por lo que el **dataframe** es fiable.
+El proyecto parte de un conjunto de datos con mas de 3 millones de  tweets de unas dos mil personas que han sido etiquetadas con o sin estado depresivo. Este marcado se ha hecho por personas especialistas por lo que el **dataframe** es fiable.
 
-El proyecto debe limpiar previamente este fichero para poder procesar, es bastante extenso y por ello requiere bastante cálculo. El fichero csv con los datos tabulados no puede adjuntarse aqui por razones de espacio, pesa unos 250mb. Si se adjuntan los notebooks e información del proceso realizado.
+El proyecto debe limpiar previamente este fichero para poder procesar, es bastante extenso y por ello requiere bastante cálculo. El fichero csv con los datos tabulados no puede adjuntarse aqui por razones de espacio, pesa unos 250mb. Sí se adjuntan los notebooks e información del proceso realizado.
+
+**Fase de limpieza EDA y preparacion de csv limpio y balanceado**
+
+El enlace en Huggingface es este:
+[Depresion_Huggingface](https://huggingface.co/datasets/raulminan/depresion-twitter-es/tree/main)
+
+El notebook contenido en esta carpeta adquiere la fuente en Huggingface y la convierte en un csv mas pequeño sin emoticonos ni caracteres especiales, y balanceado de tal forma que haya una cantidad equivalente de tweets con o sin depresion.
+
+- [**LimpiezaEDA**](/LimpiezaEDA/README.md)
 
 **Se han empleado para el análisis los algoritmos NLP siguientes:**
 
