@@ -8,7 +8,7 @@
 
 ### Resultados:
 
-Hemos llegado a obtener valores muy interesante:
+Hemos llegado a obtener valores muy interesantes:
 - Accuracy de 0.80
 - Recall de 0.96
 
